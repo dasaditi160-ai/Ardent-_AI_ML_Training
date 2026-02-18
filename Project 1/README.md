@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Mentor
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/programmer-sahil)
+- GitHub: [@my-username](https://github.com/dasaditi160-ai)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-sahil)
 
 ---
